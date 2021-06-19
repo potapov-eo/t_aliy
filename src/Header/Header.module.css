@@ -1,10 +1,51 @@
-.header {
+.headerContainer {
     position: relative;
-    z-index: 1000;
-    opacity: 0.8;
     width: 100%;
-    top:0;
-   height: 100px;
-    background-color: #535353;
+    top: 0;
+    height: 400px;
+    background-image: url("../assets/image/1/арх 3-Рисунок 4.jpg");
+    background-size: cover;
+    background-position: center;
+}
+/*
+.container{
+    width: 1650px;
+    height: 100%;
+   margin:0 auto ;
+}
+*/
+
+.headerBlock {
+    position: relative;
+    background-color: black;
+    opacity: 0.8;
+    height: 100%;
+    color: #ffe
+}
+
+.headerInfo {
+    min-width: 1450px;
+    padding: 0 100px;
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.name {
+    max-width: 25%;
+    font-size: 40px;
+    text-align:start;
+    font-weight:bold
+}
+
+.text {
+    max-width: 25%;
+    font-size: 30px;
+}
+
+.contact {
+    max-width: 25%;
+    text-align:end;
 
 }
