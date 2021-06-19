@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/t_aliy/static/css/main.41425938.chunk.css",
+    "main.css": "/t_aliy/static/css/main.b9b296a5.chunk.css",
     "main.js": "/t_aliy/static/js/main.880be4b9.chunk.js",
     "main.js.map": "/t_aliy/static/js/main.880be4b9.chunk.js.map",
     "runtime-main.js": "/t_aliy/static/js/runtime-main.a2a6c4ed.js",
@@ -10,7 +10,7 @@
     "static/js/3.ed0eb501.chunk.js": "/t_aliy/static/js/3.ed0eb501.chunk.js",
     "static/js/3.ed0eb501.chunk.js.map": "/t_aliy/static/js/3.ed0eb501.chunk.js.map",
     "index.html": "/t_aliy/index.html",
-    "static/css/main.41425938.chunk.css.map": "/t_aliy/static/css/main.41425938.chunk.css.map",
+    "static/css/main.b9b296a5.chunk.css.map": "/t_aliy/static/css/main.b9b296a5.chunk.css.map",
     "static/js/2.b2b2ce0c.chunk.js.LICENSE.txt": "/t_aliy/static/js/2.b2b2ce0c.chunk.js.LICENSE.txt",
     "static/media/арх 2-Рис 5.b742393e.jpg": "/t_aliy/static/media/арх 2-Рис 5.b742393e.jpg",
     "static/media/арх 3-Рисунок 2.75ee33a0.jpg": "/t_aliy/static/media/арх 3-Рисунок 2.75ee33a0.jpg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.a2a6c4ed.js",
     "static/js/2.b2b2ce0c.chunk.js",
-    "static/css/main.41425938.chunk.css",
+    "static/css/main.b9b296a5.chunk.css",
     "static/js/main.880be4b9.chunk.js"
   ]
 }
