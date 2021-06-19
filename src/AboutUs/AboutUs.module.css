@@ -1,0 +1,8 @@
+.AboutUs {
+    min-height: 300px;
+    background-color: rosybrown;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 100px 0;
+}
