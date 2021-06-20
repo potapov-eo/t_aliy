@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/t_aliy/static/css/main.42c76080.chunk.css",
-    "main.js": "/t_aliy/static/js/main.9dd07027.chunk.js",
-    "main.js.map": "/t_aliy/static/js/main.9dd07027.chunk.js.map",
-    "runtime-main.js": "/t_aliy/static/js/runtime-main.a2a6c4ed.js",
-    "runtime-main.js.map": "/t_aliy/static/js/runtime-main.a2a6c4ed.js.map",
-    "static/js/2.1cea5786.chunk.js": "/t_aliy/static/js/2.1cea5786.chunk.js",
-    "static/js/2.1cea5786.chunk.js.map": "/t_aliy/static/js/2.1cea5786.chunk.js.map",
-    "static/js/3.ed0eb501.chunk.js": "/t_aliy/static/js/3.ed0eb501.chunk.js",
-    "static/js/3.ed0eb501.chunk.js.map": "/t_aliy/static/js/3.ed0eb501.chunk.js.map",
+    "main.css": "/t_aliy/static/css/main.0b944a4f.chunk.css",
+    "main.js": "/t_aliy/static/js/main.ee135926.chunk.js",
+    "main.js.map": "/t_aliy/static/js/main.ee135926.chunk.js.map",
+    "runtime-main.js": "/t_aliy/static/js/runtime-main.8814460a.js",
+    "runtime-main.js.map": "/t_aliy/static/js/runtime-main.8814460a.js.map",
+    "static/css/2.12fb5b84.chunk.css": "/t_aliy/static/css/2.12fb5b84.chunk.css",
+    "static/js/2.bdc058fd.chunk.js": "/t_aliy/static/js/2.bdc058fd.chunk.js",
+    "static/js/2.bdc058fd.chunk.js.map": "/t_aliy/static/js/2.bdc058fd.chunk.js.map",
+    "static/js/3.1970153c.chunk.js": "/t_aliy/static/js/3.1970153c.chunk.js",
+    "static/js/3.1970153c.chunk.js.map": "/t_aliy/static/js/3.1970153c.chunk.js.map",
     "index.html": "/t_aliy/index.html",
-    "static/css/main.42c76080.chunk.css.map": "/t_aliy/static/css/main.42c76080.chunk.css.map",
-    "static/js/2.1cea5786.chunk.js.LICENSE.txt": "/t_aliy/static/js/2.1cea5786.chunk.js.LICENSE.txt",
+    "static/css/2.12fb5b84.chunk.css.map": "/t_aliy/static/css/2.12fb5b84.chunk.css.map",
+    "static/css/main.0b944a4f.chunk.css.map": "/t_aliy/static/css/main.0b944a4f.chunk.css.map",
+    "static/js/2.bdc058fd.chunk.js.LICENSE.txt": "/t_aliy/static/js/2.bdc058fd.chunk.js.LICENSE.txt",
     "static/media/1арх виз.5e9d8cd6.jpg": "/t_aliy/static/media/1арх виз.5e9d8cd6.jpg",
     "static/media/2арх1 рисунок2.03d07bee.jpg": "/t_aliy/static/media/2арх1 рисунок2.03d07bee.jpg",
     "static/media/3арх 1 рисунок3.d7eb13c5.jpg": "/t_aliy/static/media/3арх 1 рисунок3.d7eb13c5.jpg",
@@ -24,9 +26,10 @@
     "static/media/сруб-Рисунок4 (3).e043c1c8.jpg": "/t_aliy/static/media/сруб-Рисунок4 (3).e043c1c8.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a2a6c4ed.js",
-    "static/js/2.1cea5786.chunk.js",
-    "static/css/main.42c76080.chunk.css",
-    "static/js/main.9dd07027.chunk.js"
+    "static/js/runtime-main.8814460a.js",
+    "static/css/2.12fb5b84.chunk.css",
+    "static/js/2.bdc058fd.chunk.js",
+    "static/css/main.0b944a4f.chunk.css",
+    "static/js/main.ee135926.chunk.js"
   ]
 }
