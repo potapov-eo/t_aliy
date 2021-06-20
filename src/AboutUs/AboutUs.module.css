@@ -22,7 +22,8 @@
     .AboutUs__content {
         flex-direction: column;
         padding: 5px 0;
-        font-size: 30px;
+        font-size: 45px;
+        font-weight: bold;
     }
 }
 .AboutUs__content p {
