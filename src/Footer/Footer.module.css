@@ -19,3 +19,8 @@
     padding: 0 100px;
     height: 100%;
 }
+@media screen and (max-width: 480px) {
+    .footer__content {
+        font-size: 30px;
+    }
+}

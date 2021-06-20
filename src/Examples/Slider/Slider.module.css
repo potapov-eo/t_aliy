@@ -1,0 +1,9 @@
+.example__picContainer {
+    overflow: hidden;
+    margin: 5px;
+    height: 100%;
+}
+.example__pic {
+    width: 100%;
+
+}

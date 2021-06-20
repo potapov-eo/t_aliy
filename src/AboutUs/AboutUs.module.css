@@ -18,7 +18,13 @@
     font-size: 22px;
     font-weight: 500;
 }
-
+@media screen and (max-width: 480px) {
+    .AboutUs__content {
+        flex-direction: column;
+        padding: 5px 0;
+        font-size: 30px;
+    }
+}
 .AboutUs__content p {
     padding: 0 10px;
 }
