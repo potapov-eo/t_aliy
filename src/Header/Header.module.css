@@ -6,7 +6,6 @@
     background-image: url("../assets/image/1/арх 3-Рисунок 4.jpg");
     background-size: cover;
     background-position: center;
-    min-width: 1650px;
 }
 .header__fon {display: flex;
     position: relative;
@@ -18,8 +17,9 @@
 }
 .container{
     position: relative;
-    width: 1600px;
+    max-width: 1600px;
     height: 100%;
+    margin: 0 50px;
 }
 .header__info {
     width:100%;
@@ -30,7 +30,7 @@
 }
 .header__name {
     max-width: 25%;
-    font-size: 55px;
+    font-size: 50px;
     text-align: start;
     font-weight: bold;
     color: #ffb400;
@@ -39,7 +39,7 @@
   }
 
 .header__text {
-    max-width: 25%;
+    max-width: 40%;
     font-size: 35px;
     font-style:italic;
     letter-spacing: 3px;
