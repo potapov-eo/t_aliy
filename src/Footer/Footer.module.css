@@ -2,9 +2,18 @@
     height: 100px;
     background-color: #bdbdbd;
     display: flex;
+    justify-content: center;
+}
+.container {
+    position: relative;
+    width: 1600px;
+    height: 100%;
+}
+.footer__content{
+    display: flex;
     align-items: center;
     justify-content: center;
     font-size: 22px;
-    min-width: 1450px;
     padding: 0 100px;
+    height: 100%;
 }
