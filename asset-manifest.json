@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/t_aliy/static/css/main.532d9a62.chunk.css",
-    "main.js": "/t_aliy/static/js/main.ee135926.chunk.js",
-    "main.js.map": "/t_aliy/static/js/main.ee135926.chunk.js.map",
+    "main.css": "/t_aliy/static/css/main.85016723.chunk.css",
+    "main.js": "/t_aliy/static/js/main.d67aed51.chunk.js",
+    "main.js.map": "/t_aliy/static/js/main.d67aed51.chunk.js.map",
     "runtime-main.js": "/t_aliy/static/js/runtime-main.8814460a.js",
     "runtime-main.js.map": "/t_aliy/static/js/runtime-main.8814460a.js.map",
     "static/css/2.12fb5b84.chunk.css": "/t_aliy/static/css/2.12fb5b84.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.1970153c.chunk.js.map": "/t_aliy/static/js/3.1970153c.chunk.js.map",
     "index.html": "/t_aliy/index.html",
     "static/css/2.12fb5b84.chunk.css.map": "/t_aliy/static/css/2.12fb5b84.chunk.css.map",
-    "static/css/main.532d9a62.chunk.css.map": "/t_aliy/static/css/main.532d9a62.chunk.css.map",
+    "static/css/main.85016723.chunk.css.map": "/t_aliy/static/css/main.85016723.chunk.css.map",
     "static/js/2.bdc058fd.chunk.js.LICENSE.txt": "/t_aliy/static/js/2.bdc058fd.chunk.js.LICENSE.txt",
     "static/media/1арх виз.5e9d8cd6.jpg": "/t_aliy/static/media/1арх виз.5e9d8cd6.jpg",
     "static/media/2арх1 рисунок2.03d07bee.jpg": "/t_aliy/static/media/2арх1 рисунок2.03d07bee.jpg",
@@ -29,7 +29,7 @@
     "static/js/runtime-main.8814460a.js",
     "static/css/2.12fb5b84.chunk.css",
     "static/js/2.bdc058fd.chunk.js",
-    "static/css/main.532d9a62.chunk.css",
-    "static/js/main.ee135926.chunk.js"
+    "static/css/main.85016723.chunk.css",
+    "static/js/main.d67aed51.chunk.js"
   ]
 }
