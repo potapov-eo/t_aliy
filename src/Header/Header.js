@@ -7,7 +7,7 @@ function Header () {
             <div className={style.header__fon}>
                 <div className={style.container}>
                     <div className={style.header__info}>
-                        <div className={style.header__name}> ENGINEERING GROUP</div>
+                        <div className={style.header__name}> ROOFS </div>
                         <div className={style.header__text}>Проектирование домов и коттеджей по всему миру</div>
                         <div className={style.header__contact}>
                             <p>Контакты:Тел.</p>

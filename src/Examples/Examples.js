@@ -10,6 +10,10 @@ import pic7 from "../assets/image/2/сруб-Рисунок4 (3).jpg";
 import pic8 from "../assets/image/3/1арх виз.jpg";
 import pic9 from "../assets/image/3/2арх1 рисунок2.jpg";
 import pic10 from "../assets/image/3/3арх 1 рисунок3.jpg";
+import pic11 from "../assets/image/3/3арх 1 рисунок3.jpg";
+import pic12 from "../assets/image/3/3арх 1 рисунок3.jpg";
+import pic13 from "../assets/image/3/3арх 1 рисунок3.jpg";
+import pic14 from "../assets/image/3/3арх 1 рисунок3.jpg";
 
 import Slider from "./Slider/Slider";
 
@@ -26,7 +30,11 @@ const thirdPics = {
     pics: [pic8, pic9, pic10,
     ], title: "title 3",
 };
-const allPics = [firstPics, secondPics, thirdPics];
+const fourPics = {
+    pics: [pic11, pic12, pic13, pic14,
+    ], title: "title 4",
+};
+const allPics = [firstPics, secondPics, thirdPics, fourPics];
 
 function Examples () {
     return (
@@ -45,7 +53,7 @@ function Examples () {
                         <div className={style.example__pics}>
                             {pics.pics.map (pic => < div className={style.example__picContainer}>
                                     <img className={style.example__pic} src={pic} alt="дом"/>
-                                </div>
+                                </div>,
                             )}
                         </div>
                     </div>)}
